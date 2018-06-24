@@ -1,0 +1,7 @@
+.vs/
+iic.core/bin/
+iic.core/obj/
+iic.gui/bin/Debug/iic.gui.exe
+iic.gui/obj/Debug/CompWindow.g.i.cs
+iic.gui/obj/
+iic.gui/bin/
